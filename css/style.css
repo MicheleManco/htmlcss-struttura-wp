@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .container {
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -30,7 +30,7 @@ header{
 }
 
 .article {
-    margin:30px 0 10px 0;
+    margin-top: 30px;
     /*debug*/
     background-color: teal;
 
@@ -47,23 +47,24 @@ header{
 .widgets {
     width: 23%;
     float: left;
-    margin-bottom: 5%;
+    margin-bottom: 20px;
     /*debug*/
     background-color: turquoise;
-    height: 400px;
+    height: 600px;
 }
 
 .s-mid {
     width: 50%;
     float: left;
-    margin: 0 2%;
+    margin: 0 2% 20px 2%;
     /*debug*/
     background-color: turquoise;
-    height: 400px;
+    height: 600px;
 }
 
 footer {
+    margin: 15px 0px;
     /*debug*/
-    height: 50px;
+    height: 60px;
     background-color: purple;
 }
