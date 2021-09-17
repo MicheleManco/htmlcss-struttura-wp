@@ -53,7 +53,6 @@ header{
 .widgets {
     width: 23%;
     float: left;
-    margin-bottom: 20px;
     /*debug*/
     background-color: turquoise;
     height: 600px;
@@ -62,7 +61,7 @@ header{
 .s-mid {
     width: 50%;
     float: left;
-    margin: 0 2% 20px 2%;
+    margin: 0 2%;
     /*debug*/
     background-color: turquoise;
     height: 600px;
